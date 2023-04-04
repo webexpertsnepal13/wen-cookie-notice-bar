@@ -1,0 +1,47 @@
+#wcnb-cookie-info {
+	position: fixed;
+	bottom: 0;
+	padding: 23px 20px;
+	background: #fff;
+	width: 100%;
+	left: 0;
+	z-index: 9999999999;
+	-webkit-box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.75);
+	box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.75);
+}
+#wcnb-cookie-info p {
+	margin-bottom: 0;
+	float: left;
+	font-size: 16px;
+	padding-top: 6px;
+}
+#wcnb-cookie-info p a {
+	color: #F62759;
+}
+#wcnb-cookie-info p a:hover {
+	color: #0E1844;
+}
+#wcnb-cookie-info button {
+	float: right;
+	border: none;
+	padding: 10px;
+	font-size: 16px;
+	margin-top: 10px;
+	-webkit-transition: 0.4s;
+	transition: 0.4s;
+}
+@media (max-width: 767px) {
+	#wcnb-cookie-info {
+		text-align: center;
+		padding: 13px 20px;
+	}
+	#wcnb-cookie-info p {
+		float: none;
+		margin-bottom: 15px;
+		font-size: 14px;
+	}
+	#wcnb-cookie-info button {
+		float: none;
+		margin-top: 0;
+	}
+}
