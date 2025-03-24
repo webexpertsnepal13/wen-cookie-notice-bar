@@ -1,10 +1,10 @@
 === WEN Cookie Notice Bar ===
 Contributors: webexpertsnepal
 Tags: gdpr, cookie, notice, cookie notice, notice bar, cookie bar
-Requires at least: 4.4
-Tested up to: 5.3
-Stable tag: 1.0
-Requires PHP: 5.6
+Requires at least: 6.0
+Tested up to: 6.7
+Stable tag: 1.1
+Requires PHP: 7.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -24,6 +24,10 @@ Features:
 2. Frontend: Cookie Notice Bar with WP default Twenty Nineteen theme
 
 == Changelog ==
+
+= 1.1 =
+* Compatibility with WordPress 6.7
+* Updated required PHP and WordPress version
 
 = 1.0 =
 * Initial release

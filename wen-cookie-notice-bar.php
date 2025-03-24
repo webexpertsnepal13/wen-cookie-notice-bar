@@ -2,7 +2,7 @@
 /*
  * Plugin Name:  WEN Cookie Notice Bar
  * Description:  Allow to add a simple cookie notice bar for making your site GDPR compliant according to EU law
- * Version:      1.0
+ * Version:      1.1
  * Author:       Web Experts Nepal
  * Author URI:   https://www.webexpertsnepal.com/
  * Text Domain:  wen-cookie-notice-bar
