@@ -28,6 +28,7 @@ Features:
 = 1.1 =
 * Compatibility with WordPress 6.7
 * Updated required PHP and WordPress version
+* Fix css for overlapping of cookie button by scrollbar.
 
 = 1.0 =
 * Initial release
